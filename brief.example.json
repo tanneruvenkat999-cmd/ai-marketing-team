@@ -1,0 +1,23 @@
+{
+  "business_name": "Example Riga Cafe (fictional demo)",
+  "products": [
+    "Coffee",
+    "Pastries"
+  ],
+  "audience": "Local residents and students",
+  "goal": "Increase weekday enquiries",
+  "brand_voice": "Friendly and welcoming",
+  "brand_colors": [
+    "#164E63",
+    "#FFF7ED"
+  ],
+  "verified_offers": [],
+  "channels": [
+    "Instagram",
+    "Facebook"
+  ],
+  "campaign_start": null,
+  "budget": null,
+  "sources": [],
+  "metrics": []
+}

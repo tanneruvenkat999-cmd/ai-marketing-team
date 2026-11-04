@@ -1,0 +1,30 @@
+[
+  {
+    "id": "manager",
+    "name": "Project Manager"
+  },
+  {
+    "id": "researcher",
+    "name": "Market & Audience Researcher"
+  },
+  {
+    "id": "strategist",
+    "name": "Campaign Strategist"
+  },
+  {
+    "id": "copywriter",
+    "name": "Marketing Copywriter"
+  },
+  {
+    "id": "designer",
+    "name": "Visual Content Designer"
+  },
+  {
+    "id": "quality",
+    "name": "Quality & Publishing Coordinator"
+  },
+  {
+    "id": "analyst",
+    "name": "Performance Analyst"
+  }
+]
