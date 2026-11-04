@@ -1,5 +1,11 @@
 # Autonomous AI Marketing Team — Venkat Tanniru
 
+## Live website
+
+### [Open AI Marketing Studio](https://venkat-ai-marketing-studio.tanniruvenkat07.chatgpt.site)
+
+Public access: anyone with the link can visit. The website includes agent profiles and a template-based campaign demo. Live AI generation is not connected to the website. Hosting is through ChatGPT Sites, separate from this GitHub repository.
+
 A runnable seven-agent drafting prototype for local businesses. Each agent has its own editable prompt in `agents/`. Python orchestrates their handoffs and records a CSV task ledger. No third-party Python packages are required. Requires Python 3.10 or newer.
 
 ## Start without an API key
